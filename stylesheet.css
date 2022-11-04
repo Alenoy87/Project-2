@@ -1,6 +1,7 @@
 h1 {
-fontcolor: blue;
-fontsize: 30px;
-fontweight: bold;
+font-size: 32px;
+color: blue;
+font-style: italic;
+font-weight: bold;
 
 }
